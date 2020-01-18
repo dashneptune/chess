@@ -1,0 +1,5 @@
+#include <memory>
+
+
+class myLib {
+};

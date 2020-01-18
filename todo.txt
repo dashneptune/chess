@@ -1,0 +1,13 @@
+infrastructure:
+add unit-test
+figure out mocking framework
+add ansible setup
+add built in support for gperftools
+add iwyu support
+bring in boost
+
+repo stuff:
+add gitignore
+add meaningful readme
+
+
